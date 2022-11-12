@@ -1,0 +1,5 @@
+This file contains the client's secret message:
+Chocolate factory
+123 Cocoa Lane
+Richmond, Virginia
+United States
